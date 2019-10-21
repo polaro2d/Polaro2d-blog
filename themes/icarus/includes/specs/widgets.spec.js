@@ -4,17 +4,17 @@ const DEFAULT_WIDGETS = [
     {
         type: 'profile',
         position: 'left',
-        author: 'Your name',
-        author_title: 'Your title',
-        location: 'Your location',
+        author: 'Polaro2d_YJ YUN',
+        author_title: 'Tech blog',
+        location: 'Korea',
         avatar: null,
         gravatar: null,
         avatar_rounded: false,
-        follow_link: 'https://github.com/ppoffice',
+        follow_link: 'https://github.com/polaro2d',
         social_links: {
             Github: {
                 icon: 'fab fa-github',
-                url: 'https://github.com/ppoffice'
+                url: 'https://github.com/polaro2d'
             },
             Facebook: {
                 icon: 'fab fa-facebook',
